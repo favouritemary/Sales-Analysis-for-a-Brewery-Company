@@ -1,4 +1,4 @@
-# Sales-Analysis-for-a-Brewery-Company
+# Sales Analysis for International Breweries
 
 ## Introduction
 This report presents a comprehensive analysis of the profit and brand performance of International Breweries over a three-year period. The analysis is aimed at aiding strategic decision-making to maximize profit and minimize losses. The data includes records from both anglophone and francophone territories, providing insights into regional performance and consumer preferences.
